@@ -33,4 +33,4 @@
   - Designed tablet login layout.
   - Designed mobile login layout.
 - **Challenges faced**: Understanding Figma interface. I asked Product Owner how to add an icon so I can finally finish the prototype.
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **OpenSauced Highlight**: [Prototype sample](https://github.com/shartrooper/open-saused-journey/blob/main/assets/login-prototype.jpg)
