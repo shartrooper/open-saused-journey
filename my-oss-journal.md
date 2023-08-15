@@ -23,3 +23,14 @@
   - Angular CLI documentation (https://angular.io/cli)
   - CSS Flexbox guide on MDN (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 1
+
+- **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Design login UI/UX layout prototypes.
+- **Tasks completed**: 
+  - Designed desktop login layout.
+  - Designed tablet login layout.
+  - Designed mobile login layout.
+- **Challenges faced**: Understanding Figma interface. I asked Product Owner how to add an icon so I can finally finish the prototype.
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
