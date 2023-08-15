@@ -4,7 +4,7 @@
 
 - [100 Days of Open Source](#100-days-of-open-source)
   - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
+  - [Introduction](https://github.com/shartrooper/open-saused-journey/blob/main/introduction.md)
   - [Day 1](#day-1)
   - [Day 2](#day-2)
   - [Day 3](#day-3)
