@@ -34,3 +34,15 @@
   - Designed mobile login layout.
 - **Challenges faced**: Understanding Figma interface. I asked Product Owner how to add an icon so I can finally finish the prototype.
 - **OpenSauced Highlight**: [Prototype sample](https://github.com/shartrooper/open-saused-journey/blob/main/assets/login-prototype.jpg)
+
+## Day 1
+
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Make the dashboard sidebar responsive for smaller screens.
+- **Tasks completed**: 
+  - Can toggle visibility on smaller screens.
+  - Will remain visible for screens higher or equal than 1024px.
+- **Challenges faced**: This is a Next.js app, therefore the components are server rendered and have not access to browser's API.
+I designed a custom hook that takes a ref and a string representing parent's id in order to add an event listener which will handle
+binding click events outside of the sidebar container (and close on trigger ).
+- **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/202)
