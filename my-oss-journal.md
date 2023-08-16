@@ -35,7 +35,7 @@
 - **Challenges faced**: Understanding Figma interface. I asked Product Owner how to add an icon so I can finally finish the prototype.
 - **OpenSauced Highlight**: [Prototype sample](https://github.com/shartrooper/open-saused-journey/blob/main/assets/login-prototype.jpg)
 
-## Day 1
+## Day 2
 
 - **Project**: boxyhq/saas-starter-kit
 - **Description**: Make the dashboard sidebar responsive for smaller screens.
