@@ -46,3 +46,14 @@
 I designed a custom hook that takes a ref and a string representing parent's id in order to add an event listener which will handle
 binding click events outside of the sidebar container (and close on trigger ).
 - **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/202)
+
+## Day 3
+ **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Open Mongo DB cluster and setup repo database connection.
+- **Tasks completed**: 
+  - Opened a cluster, config my IP.
+  - Setup Mongo and its ODM mongoose on the Express repo.
+  - Configure the environment variables.
+- **Challenges faced**: The dev team implemented a PR templated, I had to revert the PR I opened in the remote repo directly and learn 
+to use the custom template in VSCode in order to make a proper PR.
+- **OpenSauced Highlight**: [Merged commit](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/commit/de8ffd9c313741163e1f98b37f8a57fb8a541771)
