@@ -57,3 +57,12 @@ binding click events outside of the sidebar container (and close on trigger ).
 - **Challenges faced**: The dev team implemented a PR templated, I had to revert the PR I opened in the remote repo directly and learn 
 to use the custom template in VSCode in order to make a proper PR.
 - **OpenSauced Highlight**: [Merged commit](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/commit/de8ffd9c313741163e1f98b37f8a57fb8a541771)
+
+## Day 4
+
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Fix dashboard sidebar z-index
+- **Tasks completed**: 
+  - Removed z-index tailwind class after toggle hiding the sidebar.
+- **Challenges faced**: n/a. 
+- **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/202)
