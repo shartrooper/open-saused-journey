@@ -66,3 +66,13 @@ to use the custom template in VSCode in order to make a proper PR.
   - Removed z-index tailwind class after toggle hiding the sidebar.
 - **Challenges faced**: n/a. 
 - **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/202)
+
+## Day 5
+ **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Entity MV feature
+- **Tasks completed**: 
+  - write Controller code.
+  - write Model code.
+  - write Service code.
+- **Challenges faced**: ...
+- **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/3)
