@@ -76,3 +76,11 @@ to use the custom template in VSCode in order to make a proper PR.
   - write Service code.
 - **Challenges faced**: ...
 - **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/3)
+
+## Day 6
+ **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Add response formatter
+- **Tasks completed**: 
+  - add utility function to format the JSON response.
+- **Challenges faced**: ...
+- **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/4)
