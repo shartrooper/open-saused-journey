@@ -84,3 +84,11 @@ to use the custom template in VSCode in order to make a proper PR.
   - add utility function to format the JSON response.
 - **Challenges faced**: ...
 - **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/4)
+
+## Day 7
+ **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Add error middleware
+- **Tasks completed**: 
+  - refactor response types into another file and add an error handler defined as middleware for some general errors.
+- **Challenges faced**: ...
+- **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/5)
