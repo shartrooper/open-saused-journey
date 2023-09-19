@@ -92,3 +92,12 @@ to use the custom template in VSCode in order to make a proper PR.
   - refactor response types into another file and add an error handler defined as middleware for some general errors.
 - **Challenges faced**: ...
 - **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/5)
+
+## Day 8
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Review Svix webhook implementation
+- **Tasks completed**: 
+  - Test implemented webhook events: member.created, member.deleted, invitation.created and invitation.deleted.
+- **Challenges faced**: Reading the documentation and understanding the purpose of adding webhooks on a web application.
+- **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/419)
+
