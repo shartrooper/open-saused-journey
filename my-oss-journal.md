@@ -101,3 +101,10 @@ to use the custom template in VSCode in order to make a proper PR.
 - **Challenges faced**: Reading the documentation and understanding the purpose of adding webhooks on a web application.
 - **OpenSauced Highlight**: [Ongoing issue discussion](https://github.com/boxyhq/saas-starter-kit/issues/419)
 
+## Day 8
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Improve Type Safety
+- **Tasks completed**: 
+  - Test implemented webhook events: member.created, member.deleted, invitation.created and invitation.deleted.
+- **Challenges faced**:
+- **OpenSauced Highlight**: [PR](https://github.com/boxyhq/saas-starter-kit/pull/493)
