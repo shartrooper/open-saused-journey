@@ -108,3 +108,12 @@ to use the custom template in VSCode in order to make a proper PR.
   - Test implemented webhook events: member.created, member.deleted, invitation.created and invitation.deleted.
 - **Challenges faced**:
 - **OpenSauced Highlight**: [PR](https://github.com/boxyhq/saas-starter-kit/pull/493)
+
+## Day 10
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Fixes for audit logs error message and pricing section keys
+- **Tasks completed**: 
+  - fix list items keys in defaultLanding component.
+  - fix error display caused by undefined audit log tokens.
+- **Challenges faced**:
+- **OpenSauced Highlight**: [PR](https://github.com/boxyhq/saas-starter-kit/pull/513)
