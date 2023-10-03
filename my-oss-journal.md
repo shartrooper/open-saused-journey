@@ -125,3 +125,13 @@ to use the custom template in VSCode in order to make a proper PR.
   - userSession user's name is updated after changing it in options.
 - **Challenges faced**:
 - **OpenSauced Highlight**: [PR](https://github.com/boxyhq/saas-starter-kit/pull/526)
+
+## Day 12
+- **Project**: boxyhq/saas-starter-kit
+- **Description**: Open issue.
+- **Tasks completed**: 
+  - Explain issue about Authenticated users being able to access landing page.
+- **Challenges faced**:
+- **OpenSauced Highlight**: [ISSUE](https://github.com/boxyhq/saas-starter-kit/issues/535)
+
+
