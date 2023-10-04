@@ -134,4 +134,14 @@ to use the custom template in VSCode in order to make a proper PR.
 - **Challenges faced**:
 - **OpenSauced Highlight**: [ISSUE](https://github.com/boxyhq/saas-starter-kit/issues/535)
 
+## Day 13
+
+- **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Code Account module.
+- **Tasks completed**: 
+  - Coded account controller.
+  - Coded account service.
+  - Coded account model.
+- **Challenges faced**: Refactoring the error handling which was incomplete aswell.
+
 
