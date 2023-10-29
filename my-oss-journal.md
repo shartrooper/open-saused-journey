@@ -144,7 +144,7 @@ to use the custom template in VSCode in order to make a proper PR.
   - Coded account model.
 - **Challenges faced**: Refactoring the error handling which was incomplete aswell.
 
-## Day 13
+## Day 14
 
 - **Project**: Sobrecodigo Proyecto Beta
 - **Description**: Code Authentication module.
