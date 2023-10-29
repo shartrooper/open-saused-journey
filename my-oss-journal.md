@@ -144,4 +144,12 @@ to use the custom template in VSCode in order to make a proper PR.
   - Coded account model.
 - **Challenges faced**: Refactoring the error handling which was incomplete aswell.
 
+## Day 13
 
+- **Project**: Sobrecodigo Proyecto Beta
+- **Description**: Code Authentication module.
+- **Tasks completed**: 
+  - Coded auth controller.
+  - Coded jwt verification middleware.
+- **Challenges faced**:
+- **OpenSauced Highlight**: [PR](https://github.com/Sobrecodigo/sc-proyecto-beta-backend/pull/7)
